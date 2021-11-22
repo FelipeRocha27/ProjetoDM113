@@ -1,0 +1,15 @@
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.CopyComplete
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb

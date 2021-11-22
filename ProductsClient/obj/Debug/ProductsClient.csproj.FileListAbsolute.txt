@@ -1,0 +1,7 @@
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\bin\Debug\ProductsClient.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\obj\Debug\ProductsClient.csproj.AssemblyReference.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\obj\Debug\ProductsClient.csproj.CoreCompileInputs.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\obj\Debug\ProductsClient.exe
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsClient\obj\Debug\ProductsClient.pdb

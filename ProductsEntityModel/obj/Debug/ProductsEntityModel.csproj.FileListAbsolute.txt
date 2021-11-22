@@ -1,0 +1,14 @@
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.AssemblyReference.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.CopyComplete
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.Migrations.Criacao_do_Banco.resources
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsService.dll.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsService.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsService.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\EntityFramework.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\EntityFramework.SqlServer.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsEntityModel.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsEntityModel.pdb
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\ProductsEntityModel.dll.config
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\EntityFramework.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\bin\EntityFramework.SqlServer.xml
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\obj\Debug\ProductsService.csproj.AssemblyReference.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\obj\Debug\ProductsService.csproj.CoreCompileInputs.cache
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\obj\Debug\ProductsService.csproj.CopyComplete
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\obj\Debug\ProductsService.dll
+C:\Users\fe056414\Desktop\Particular\Pos\DM113\Projeto_DM113\ProductsService\ProductsService\obj\Debug\ProductsService.pdb
